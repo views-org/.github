@@ -10,7 +10,7 @@
 
 - Twitter: [click here](https://twitter.com/views_tweets)
 
-- Terms: https://views.gq/terms
+- Terms: [click here](https://views.gq/terms)
 
-- Privacy: https://views.gq/privacy
+- Privacy: [click here](https://views.gq/privacy)
 
