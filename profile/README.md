@@ -1,4 +1,4 @@
-## Welcome to views
+## Welcome to Views
 
 - Views is a platform where you can create cards. Cards are pages that can have description, markdown, and more!
 
