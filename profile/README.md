@@ -4,9 +4,9 @@
 
 - To create your account head over to https;//views.gq/register and create one.
 
-### Our socials
+## Our socials
 
-Discord: [click here](https://discord.gg/wS3gyq736r)
+- Discord: [click here](https://discord.gg/wS3gyq736r)
 
-Twitter: [click here](https://twitter.com/views_tweets)
+- Twitter: [click here](https://twitter.com/views_tweets)
 
